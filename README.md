@@ -1,0 +1,1 @@
+# sql-sequelize-data-relationships
